@@ -1,0 +1,5 @@
+Deploy a Spring Boot app to App Engine standard environment.
+https://developers.google.com/codelabs/cloud-app-engine-springboot#0
+
+Deploy the app to App Engine.
+mvn -DskipTests package appengine:deploy
